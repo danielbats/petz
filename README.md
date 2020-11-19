@@ -2,11 +2,11 @@
 Repo created to share the automation challange for Petz
 
 # Setting up the environment
-1. For Java: Download the Java SE Development Kit 8 and install it locally. Use the following url: https://www.oracle.com/br/java/technologies/javase/javase-jdk8-downloads.html
+1. For Java: Download the Java SE Development Kit 8 and install it locally. Use the following URL: https://www.oracle.com/br/java/technologies/javase/javase-jdk8-downloads.html
 
-2. For IDE: Download the latest version of IntelliJ IDEA Community through the following url: https://www.jetbrains.com/idea/download/download-thanks.html?platform=windows&code=IIC
+2. For IDE: Download the latest version of IntelliJ IDEA Community through the following URL: https://www.jetbrains.com/idea/download/download-thanks.html?platform=windows&code=IIC
 
-3. For drivers: Download the chromedriver version which matches with your Google Chrome browser version through the following url: https://chromedriver.storage.googleapis.com/index.html?path=85.0.4183.87/ **(It's recommended to use the 85.0 version)**
+3. For drivers: Download the chromedriver version which matches with your Google Chrome browser version through the following URL: https://chromedriver.storage.googleapis.com/index.html?path=85.0.4183.87/ **(It's recommended to use the 85.0 version)**
     * 3.1 Extract the zip file into the following local path: _**C:\drivers**_
     * 3.2 Add the mentioned path into your ENVIRONMENT PATH VARIABLES
 
